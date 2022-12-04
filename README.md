@@ -2,9 +2,9 @@
 
 ## Starting the App
 
--Clone the project on your local machine.\
--Open it in VSCode.\
--delete the file with name package-lock.json.\
+-Clone the project on your local machine\
+-Open it in VSCode\
+-delete the file with name package-lock.json\
 
 ##Run the following commands in the terminal:.\
 
