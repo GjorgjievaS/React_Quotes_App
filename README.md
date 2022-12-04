@@ -2,16 +2,19 @@
 
 ## Starting the App
 
--Clone the project on your local machine\
--Open it in VSCode\
--delete the file with name package-lock.json\
+- Clone the project on your local machine
+- Open it in VSCode
+- delete the file with name package-lock.json
 
-##Run the following commands in the terminal:.\
+## Run the following commands in the terminal:
 
-### `npm install`
-### `cd navigate to your absolute path`
-### `npm start`
+```
+> npm install
+> cd C:\Users\Sara\Desktop\app_1 
+> npm start
+```
 
+###
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
