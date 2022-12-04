@@ -10,7 +10,7 @@
 
 ```
 > npm install
-> cd C:\Users\Sara\Desktop\app_1 
+> cd create-quotes-app
 > npm start
 ```
 
